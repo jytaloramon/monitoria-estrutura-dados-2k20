@@ -1,3 +1,5 @@
+# Execício AULA 2
+
 Contagem do número de palavras em um texto
 buscar pela palavra e retornar o número de ocorrências
 
